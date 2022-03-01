@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink, NavTwo, NavLinkTwo } from "./NavBarElems";
+import { NavTwo, NavLinkTwo } from "./NavBarElems";
 
 const About = () => {
   return (
@@ -27,12 +27,12 @@ const About = () => {
             </p>
           </div>
           <NavTwo>
-            <NavLinkTwo to='/projects' activeStyle>
+            <NavLinkTwo to='/webprojects' activeStyle>
               See my digital work
             </NavLinkTwo>
           </NavTwo>
           <NavTwo>
-            <NavLinkTwo to='/projects' activeStyle>
+            <NavLinkTwo to='/artprojects' activeStyle>
               See my artwork
             </NavLinkTwo>
           </NavTwo>

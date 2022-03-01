@@ -68,7 +68,7 @@ export const arts = [
   },
   {
     title: "Transcending Paysage",
-    subtitle: "Watercolor 10.5x8.5'', ceramic paint",
+    subtitle: "Watercolor, ceramic paint",
     description:
       "A study on how art translates in different mediums. "+
       "The original piece (5) was made by Studio Ghibli. It was drawn by hand and painted before being digitized for the movie Howl's Moving Castle. "+

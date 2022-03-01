@@ -11,7 +11,8 @@ function App() {
     <Router>
     <Navbar />
     <Routes>
-        <Route exact path='/' exact element={<About />} />
+         {/* eslint-disable-next-line */}
+        <Route exact path='/' exact element={<About/>} />
         <Route path='/about' element={<About/>} />
         <Route path='/webprojects' element={<Projects/>} />
         <Route path='/artprojects' element={<Arts/>} />
