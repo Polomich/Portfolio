@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio originally made for submission for Concordia Univerity.
+Portfolio originally made as a submission for Concordia Univerity.
 
 This is a portfolio website meant to demonstrate personnal projects.
 The first page gives context to the website.
